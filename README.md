@@ -13,7 +13,12 @@ The open-source tools, projects, and builders that power everything I build. The
 
 - **[hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** — inspired this list and how I think about the Claude Code ecosystem.
 - **[headroom-ai/headroom](https://github.com/headroom-ai/headroom)** — local context compression proxy. Routes through `ANTHROPIC_BASE_URL` to reduce token burn on long sessions.
-- **[camofox-mcp](https://www.npmjs.com/package/camofox-mcp)** — MCP adapter that bridges Claude Code tools to camoufox browser. Used inside my lazy-loading MCP proxy.
+- **[camofox-mcp](https://www.npmjs.com/package/camofox-mcp)** — MCP adapter that bridges Claude Code tools to camoufox browser. Used inside a lazy-loading MCP proxy.
+
+## Web Scraping
+
+- **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** — LLM-ready web scraping API. Used as the fallback in the scraping chain (XCrawl primary → Firecrawl → WebFetch).
+- **[xcrawl.com](https://xcrawl.com)** — Chinese-built web scraping API with 28-engine SERP support. Primary scraper for content pipelines, cheaper than Firecrawl at scale.
 
 ## Social Media Crawling
 
