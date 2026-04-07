@@ -22,8 +22,6 @@ The open-source tools, projects, and builders that power everything I build. The
 - **[xcrawl.com](https://xcrawl.com)** — Chinese-built web scraping API with 28-engine SERP support. Primary scraper for content pipelines, cheaper than Firecrawl at scale.
 - **[d60/twikit](https://github.com/d60/twikit)** — X/Twitter client without API key. Powers the X curation and feed pipelines.
 - **[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)** — Chinese social media scraper for Xiaohongshu, Douyin, Bilibili, Weibo. Reference and fallback for content pipelines.
-- **[xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)** — Xiaohongshu MCP server. Reference for building the XHS MCP.
-- **[yzfly/douyin-mcp-server](https://github.com/yzfly/douyin-mcp-server)** — Douyin MCP server. Reference for building the Douyin MCP.
 - **[huccihuang/bilibili-mcp-server](https://github.com/huccihuang/bilibili-mcp-server)** — Bilibili MCP server for video and content access.
 
 ## RSS & Feeds
